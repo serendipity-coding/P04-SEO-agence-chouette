@@ -336,6 +336,11 @@ a:hover {
 .nav > li a:focus {
     background: transparent;
 }
+li
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
 
 .navbar-toggle {
     margin: 10px 10px 0 0;
@@ -677,7 +682,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 14px;
 }
 
 .tight-width-whitespace {
