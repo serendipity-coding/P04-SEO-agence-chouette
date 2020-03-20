@@ -681,7 +681,23 @@ a {
     max-width: 520px;
     margin: auto auto auto auto;
 }
-
+.intro{
+    font-size: 22px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto; 
+    color:rgb(90, 90, 90)!important;
+}
+.temoin{
+    width: 600px;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto; 
+}
+.realisation{
+    font-size: 22px;
+    color:rgb(90, 90, 90)!important;
+}
 p {
     font-size: 14px;
 }
@@ -781,7 +797,8 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #3C3838!important;
+    text-align: center
 }
 
 .btn-atomic-tangerine {
