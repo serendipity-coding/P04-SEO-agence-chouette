@@ -797,8 +797,13 @@ h4 {
 }
 
 .tc-white {
+    color: #F3976C!important;
+    text-align: center;
+    
+}
+tc-white-2{
     color: #3C3838!important;
-    text-align: center
+
 }
 
 .btn-atomic-tangerine {
